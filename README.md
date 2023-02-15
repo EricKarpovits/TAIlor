@@ -10,6 +10,8 @@
 
 Tailor is a tool that enables artists to overcome their mental blocks in a fun and engaging manner, while leveraging AI technology. AI is very powerful, but finding the right prompt can sometimes be tricky, especially for children or those with special needs. With our easy to use app, anyone can find inspiration as swiftly as possible.
 
+[Devpost Link](https://devpost.com/software/tailor-s529oy?ref_content=my-projects-tab&ref_feature=my_projects)
+
 ## Project Showcase
 <img src="README_Images/Tailor%20Starting%20screen.png" width="800" height="350" />
 Output:
